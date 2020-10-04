@@ -1,0 +1,20 @@
+Here is the background information on your task
+
+We suggest you complete Tasks 1 and 2 before proceeding with this task. 
+
+Task 3 is targeted specifically at building your ability to recognise commercial, actionable insights from your analysis and displaying it in a clear and concise way for your client, with minimal jargon. At Quantium, our analyst graduates sometimes work as what we like to call “hybrids” (a mix of analyst and consultant duties) so developing your presentation skills early is a huge win!
+
+As both technical tasks 1 and 2 were open ended in terms of insights, this model answer will focus on the layout and the order of your inclusions, including where to include graphs, taglines, written insights and recommendations.
+
+As part of Quantium’s retail analytics team, you have been conducting a range of analysis on transaction and purchase behaviour data to provide key recommendations to your client, the Category Manager of chips, who is putting together their strategic plan. 
+
+We have also attached a PowerPoint template that you might like to use to complete the task. 
+
+Keep in mind the key considerations for a presentation:
+Data literacy level of your audience
+Table of contents / agenda
+Problem statement / purpose
+Overview and context
+Content balance
+Layout and content display
+Summary / next steps
